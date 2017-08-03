@@ -40,6 +40,7 @@
             this.btnFolderSavePath = new System.Windows.Forms.Button();
             this.cbxFileType = new System.Windows.Forms.ComboBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbxPicCrop)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudnNumber)).BeginInit();
             this.panel1.SuspendLayout();
@@ -76,7 +77,7 @@
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(10, 151);
+            this.label2.Location = new System.Drawing.Point(10, 144);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(84, 20);
             this.label2.TabIndex = 2;
@@ -86,7 +87,7 @@
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(10, 232);
+            this.label3.Location = new System.Drawing.Point(10, 222);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(69, 20);
             this.label3.TabIndex = 3;
@@ -95,7 +96,7 @@
             // tbxDauFile
             // 
             this.tbxDauFile.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbxDauFile.Location = new System.Drawing.Point(13, 174);
+            this.tbxDauFile.Location = new System.Drawing.Point(13, 167);
             this.tbxDauFile.Name = "tbxDauFile";
             this.tbxDauFile.Size = new System.Drawing.Size(75, 26);
             this.tbxDauFile.TabIndex = 4;
@@ -104,7 +105,7 @@
             // nudnNumber
             // 
             this.nudnNumber.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.nudnNumber.Location = new System.Drawing.Point(13, 255);
+            this.nudnNumber.Location = new System.Drawing.Point(13, 245);
             this.nudnNumber.Maximum = new decimal(new int[] {
             999,
             0,
@@ -127,7 +128,7 @@
             // tbxFolderSavePath
             // 
             this.tbxFolderSavePath.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbxFolderSavePath.Location = new System.Drawing.Point(12, 337);
+            this.tbxFolderSavePath.Location = new System.Drawing.Point(12, 323);
             this.tbxFolderSavePath.Name = "tbxFolderSavePath";
             this.tbxFolderSavePath.ReadOnly = true;
             this.tbxFolderSavePath.Size = new System.Drawing.Size(75, 26);
@@ -137,7 +138,7 @@
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(9, 314);
+            this.label4.Location = new System.Drawing.Point(9, 300);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(67, 20);
             this.label4.TabIndex = 6;
@@ -148,7 +149,7 @@
             this.btnFolderSavePath.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnFolderSavePath.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(156)))), ((int)(((byte)(18)))));
             this.btnFolderSavePath.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnFolderSavePath.Location = new System.Drawing.Point(12, 369);
+            this.btnFolderSavePath.Location = new System.Drawing.Point(12, 355);
             this.btnFolderSavePath.Name = "btnFolderSavePath";
             this.btnFolderSavePath.Size = new System.Drawing.Size(75, 29);
             this.btnFolderSavePath.TabIndex = 8;
@@ -170,6 +171,7 @@
             // panel1
             // 
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.cbxFileType);
             this.panel1.Controls.Add(this.label2);
@@ -179,10 +181,22 @@
             this.panel1.Controls.Add(this.tbxFolderSavePath);
             this.panel1.Controls.Add(this.nudnNumber);
             this.panel1.Controls.Add(this.label4);
-            this.panel1.Location = new System.Drawing.Point(684, 24);
+            this.panel1.Location = new System.Drawing.Point(684, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(97, 504);
+            this.panel1.Size = new System.Drawing.Size(97, 560);
             this.panel1.TabIndex = 10;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.OrangeRed;
+            this.label5.Location = new System.Drawing.Point(0, 425);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(99, 78);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Use mouse to crop:\r\nDrag on image to\r\n  select a part\r\nor\r\nMove the\r\n   selection" +
+    " part";
             // 
             // Form1
             // 
@@ -219,6 +233,7 @@
         private System.Windows.Forms.Button btnFolderSavePath;
         private System.Windows.Forms.ComboBox cbxFileType;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label5;
     }
 }
 
