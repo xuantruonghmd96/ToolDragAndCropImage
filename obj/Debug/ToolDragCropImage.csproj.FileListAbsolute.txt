@@ -7,3 +7,12 @@ D:\Lap Trinh C\ToolDragCropImage\ToolDragCropImage\obj\Debug\ToolDragCropImage.c
 D:\Lap Trinh C\ToolDragCropImage\ToolDragCropImage\obj\Debug\ToolDragCropImage.exe
 D:\Lap Trinh C\ToolDragCropImage\ToolDragCropImage\obj\Debug\ToolDragCropImage.pdb
 D:\Lap Trinh C\ToolDragCropImage\ToolDragCropImage\obj\Debug\ToolDragCropImage.csprojResolveAssemblyReference.cache
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Debug\ToolDragCropImage.exe.config
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.exe
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.pdb
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.Form1.resources
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.Properties.Resources.resources
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.csproj.GenerateResource.Cache
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Debug\ToolDragCropImage.exe
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Debug\ToolDragCropImage.pdb
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Debug\ToolDragCropImage.csprojResolveAssemblyReference.cache

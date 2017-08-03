@@ -1,0 +1,9 @@
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Release\ToolDragCropImage.exe.config
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Release\ToolDragCropImage.exe
+D:\Lap Trinh C\ToolDragAndCropImage\bin\Release\ToolDragCropImage.pdb
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.Form1.resources
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.Properties.Resources.resources
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.csproj.GenerateResource.Cache
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.exe
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.pdb
+D:\Lap Trinh C\ToolDragAndCropImage\obj\Release\ToolDragCropImage.csprojResolveAssemblyReference.cache
